@@ -12,7 +12,7 @@ const Greet = (props) => {
     const [count, setCount] = useState(0);
     return (
       <div>
-        <h1>Hello {props.name}</h1>
+        <h1>Hello changesss {props.name}</h1>
         <button onClick={() => setCount(count + 1)}>Increase Count</button>
         <p>{count}</p>
       </div>
