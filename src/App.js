@@ -7,8 +7,8 @@ export default class App extends Component {
     return (
       <React.Fragment>
         
-      <Greet name="shubhoFunc"/>
-      <Welcome name="shubhoClass"/>
+      <Greet name=""/>
+      <Welcome name=""/>
       </React.Fragment>
     )
   }
